@@ -5,6 +5,7 @@ using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
+using Windows.UI.Popups;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Controls.Primitives;
@@ -26,5 +27,12 @@ namespace HelloUWP
         {
             this.InitializeComponent();
         }
+
+        private void okClick(object sender, RoutedEventArgs e)
+        {
+            MessageDialog msg = new MessageDialog($"Hello {userName.Text}");
+            _ = msg.ShowAsync(); // Display the message box, but ignore the value returned
+        }
+
     }
 }
