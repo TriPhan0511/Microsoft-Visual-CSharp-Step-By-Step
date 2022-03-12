@@ -1,0 +1,8 @@
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_01\TestHello\TestHello\bin\Release\TestHello.exe.config
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_01\TestHello\TestHello\bin\Release\TestHello.exe
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_01\TestHello\TestHello\bin\Release\TestHello.pdb
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_01\TestHello\TestHello\obj\Release\TestHello.csproj.AssemblyReference.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_01\TestHello\TestHello\obj\Release\TestHello.csproj.SuggestedBindingRedirects.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_01\TestHello\TestHello\obj\Release\TestHello.csproj.CoreCompileInputs.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_01\TestHello\TestHello\obj\Release\TestHello.exe
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_01\TestHello\TestHello\obj\Release\TestHello.pdb

@@ -1,0 +1,15 @@
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_01\HelloWorld2\bin\Debug\net6.0\HelloWorld2.exe
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_01\HelloWorld2\bin\Debug\net6.0\HelloWorld2.deps.json
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_01\HelloWorld2\bin\Debug\net6.0\HelloWorld2.runtimeconfig.json
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_01\HelloWorld2\bin\Debug\net6.0\HelloWorld2.dll
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_01\HelloWorld2\bin\Debug\net6.0\HelloWorld2.pdb
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_01\HelloWorld2\obj\Debug\net6.0\HelloWorld2.csproj.AssemblyReference.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_01\HelloWorld2\obj\Debug\net6.0\HelloWorld2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_01\HelloWorld2\obj\Debug\net6.0\HelloWorld2.AssemblyInfoInputs.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_01\HelloWorld2\obj\Debug\net6.0\HelloWorld2.AssemblyInfo.cs
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_01\HelloWorld2\obj\Debug\net6.0\HelloWorld2.csproj.CoreCompileInputs.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_01\HelloWorld2\obj\Debug\net6.0\HelloWorld2.dll
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_01\HelloWorld2\obj\Debug\net6.0\refint\HelloWorld2.dll
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_01\HelloWorld2\obj\Debug\net6.0\HelloWorld2.pdb
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_01\HelloWorld2\obj\Debug\net6.0\HelloWorld2.genruntimeconfig.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_01\HelloWorld2\obj\Debug\net6.0\ref\HelloWorld2.dll
