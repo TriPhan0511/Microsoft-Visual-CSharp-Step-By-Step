@@ -1,0 +1,15 @@
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\Methods_ConsoleApp\Methods_ConsoleApp\bin\Debug\net6.0\Methods_ConsoleApp.exe
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\Methods_ConsoleApp\Methods_ConsoleApp\bin\Debug\net6.0\Methods_ConsoleApp.deps.json
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\Methods_ConsoleApp\Methods_ConsoleApp\bin\Debug\net6.0\Methods_ConsoleApp.runtimeconfig.json
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\Methods_ConsoleApp\Methods_ConsoleApp\bin\Debug\net6.0\Methods_ConsoleApp.dll
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\Methods_ConsoleApp\Methods_ConsoleApp\bin\Debug\net6.0\Methods_ConsoleApp.pdb
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\Methods_ConsoleApp\Methods_ConsoleApp\obj\Debug\net6.0\Methods_ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\Methods_ConsoleApp\Methods_ConsoleApp\obj\Debug\net6.0\Methods_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\Methods_ConsoleApp\Methods_ConsoleApp\obj\Debug\net6.0\Methods_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\Methods_ConsoleApp\Methods_ConsoleApp\obj\Debug\net6.0\Methods_ConsoleApp.AssemblyInfo.cs
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\Methods_ConsoleApp\Methods_ConsoleApp\obj\Debug\net6.0\Methods_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\Methods_ConsoleApp\Methods_ConsoleApp\obj\Debug\net6.0\Methods_ConsoleApp.dll
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\Methods_ConsoleApp\Methods_ConsoleApp\obj\Debug\net6.0\refint\Methods_ConsoleApp.dll
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\Methods_ConsoleApp\Methods_ConsoleApp\obj\Debug\net6.0\Methods_ConsoleApp.pdb
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\Methods_ConsoleApp\Methods_ConsoleApp\obj\Debug\net6.0\Methods_ConsoleApp.genruntimeconfig.cache
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\Methods_ConsoleApp\Methods_ConsoleApp\obj\Debug\net6.0\ref\Methods_ConsoleApp.dll

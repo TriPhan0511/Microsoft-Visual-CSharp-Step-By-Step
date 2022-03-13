@@ -1,0 +1,1 @@
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 2\MathOperators\MathOperators\MathOperators.csproj;x64

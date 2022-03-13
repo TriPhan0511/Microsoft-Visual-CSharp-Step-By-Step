@@ -1,0 +1,29 @@
+﻿<Page
+    x:Class="PrimitiveDataTypes.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PrimitiveDataTypes"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <ListBox x:ConnectionId='2' x:Name="type" FontSize="30" Width="200" Height="500" Margin="113,217,1187,283"                                        >
+            <ListBoxItem>int</ListBoxItem>
+            <ListBoxItem>long</ListBoxItem>
+            <ListBoxItem>float</ListBoxItem>
+            <ListBoxItem>double</ListBoxItem>
+            <ListBoxItem>decimal</ListBoxItem>
+            <ListBoxItem>string</ListBoxItem>
+            <ListBoxItem>char</ListBoxItem>
+            <ListBoxItem>bool</ListBoxItem>
+        </ListBox>
+        <TextBlock HorizontalAlignment="Left" Margin="113,108,0,0" TextWrapping="Wrap" Text="Choose a data type" VerticalAlignment="Top" FontSize="30"/>
+        <TextBlock HorizontalAlignment="Left" Margin="518,108,0,0" TextWrapping="Wrap" Text="Sample Value" VerticalAlignment="Top" FontSize="30"/>
+        <TextBox x:ConnectionId='3' x:Name="displayTextBox" HorizontalAlignment="Left" Margin="518,217,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontSize="30" Width="174"/>
+        
+
+    </Grid>
+</Page>
+

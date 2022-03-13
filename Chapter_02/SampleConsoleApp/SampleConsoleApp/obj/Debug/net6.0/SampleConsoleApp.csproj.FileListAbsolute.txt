@@ -1,0 +1,15 @@
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_02\SampleConsoleApp\SampleConsoleApp\bin\Debug\net6.0\SampleConsoleApp.exe
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_02\SampleConsoleApp\SampleConsoleApp\bin\Debug\net6.0\SampleConsoleApp.deps.json
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_02\SampleConsoleApp\SampleConsoleApp\bin\Debug\net6.0\SampleConsoleApp.runtimeconfig.json
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_02\SampleConsoleApp\SampleConsoleApp\bin\Debug\net6.0\SampleConsoleApp.dll
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_02\SampleConsoleApp\SampleConsoleApp\bin\Debug\net6.0\SampleConsoleApp.pdb
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_02\SampleConsoleApp\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.csproj.AssemblyReference.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_02\SampleConsoleApp\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_02\SampleConsoleApp\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.AssemblyInfoInputs.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_02\SampleConsoleApp\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.AssemblyInfo.cs
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_02\SampleConsoleApp\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.csproj.CoreCompileInputs.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_02\SampleConsoleApp\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.dll
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_02\SampleConsoleApp\SampleConsoleApp\obj\Debug\net6.0\refint\SampleConsoleApp.dll
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_02\SampleConsoleApp\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.pdb
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_02\SampleConsoleApp\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.genruntimeconfig.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter_02\SampleConsoleApp\SampleConsoleApp\obj\Debug\net6.0\ref\SampleConsoleApp.dll

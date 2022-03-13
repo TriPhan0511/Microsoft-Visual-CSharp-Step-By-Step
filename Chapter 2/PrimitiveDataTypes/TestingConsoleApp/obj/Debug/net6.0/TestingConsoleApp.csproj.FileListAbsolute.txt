@@ -1,0 +1,15 @@
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 2\PrimitiveDataTypes\TestingConsoleApp\bin\Debug\net6.0\TestingConsoleApp.exe
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 2\PrimitiveDataTypes\TestingConsoleApp\bin\Debug\net6.0\TestingConsoleApp.deps.json
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 2\PrimitiveDataTypes\TestingConsoleApp\bin\Debug\net6.0\TestingConsoleApp.runtimeconfig.json
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 2\PrimitiveDataTypes\TestingConsoleApp\bin\Debug\net6.0\TestingConsoleApp.dll
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 2\PrimitiveDataTypes\TestingConsoleApp\bin\Debug\net6.0\TestingConsoleApp.pdb
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 2\PrimitiveDataTypes\TestingConsoleApp\obj\Debug\net6.0\TestingConsoleApp.csproj.AssemblyReference.cache
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 2\PrimitiveDataTypes\TestingConsoleApp\obj\Debug\net6.0\TestingConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 2\PrimitiveDataTypes\TestingConsoleApp\obj\Debug\net6.0\TestingConsoleApp.AssemblyInfoInputs.cache
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 2\PrimitiveDataTypes\TestingConsoleApp\obj\Debug\net6.0\TestingConsoleApp.AssemblyInfo.cs
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 2\PrimitiveDataTypes\TestingConsoleApp\obj\Debug\net6.0\TestingConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 2\PrimitiveDataTypes\TestingConsoleApp\obj\Debug\net6.0\TestingConsoleApp.dll
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 2\PrimitiveDataTypes\TestingConsoleApp\obj\Debug\net6.0\refint\TestingConsoleApp.dll
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 2\PrimitiveDataTypes\TestingConsoleApp\obj\Debug\net6.0\TestingConsoleApp.pdb
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 2\PrimitiveDataTypes\TestingConsoleApp\obj\Debug\net6.0\TestingConsoleApp.genruntimeconfig.cache
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 2\PrimitiveDataTypes\TestingConsoleApp\obj\Debug\net6.0\ref\TestingConsoleApp.dll
