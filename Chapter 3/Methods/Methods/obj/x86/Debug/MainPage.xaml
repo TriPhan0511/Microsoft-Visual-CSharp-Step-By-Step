@@ -37,7 +37,6 @@
                 <RadioButton x:ConnectionId='11' x:Name="subtraction" VerticalAlignment="Top" Content="- Subtraction" FontSize="28" />
                 <RadioButton x:ConnectionId='12' x:Name="multiplication" VerticalAlignment="Top" Content="* Multiplication" FontSize="28" />
                 <RadioButton x:ConnectionId='13' x:Name="division" VerticalAlignment="Top" Content="/ Division" FontSize="28" />
-                <RadioButton x:ConnectionId='14' x:Name="remainder" VerticalAlignment="Top" Content="% Remainder" FontSize="28" />
             </StackPanel>
             <Button x:ConnectionId='7' x:Name="calculate" Grid.Row="5" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center" Content="Calculate" FontSize="28"                        />
             <TextBlock Grid.Row="7" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" Text="Expression:" FontSize="28" />

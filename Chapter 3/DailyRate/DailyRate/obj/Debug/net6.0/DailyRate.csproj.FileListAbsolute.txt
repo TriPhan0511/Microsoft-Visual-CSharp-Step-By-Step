@@ -1,0 +1,15 @@
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\DailyRate\DailyRate\bin\Debug\net6.0\DailyRate.exe
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\DailyRate\DailyRate\bin\Debug\net6.0\DailyRate.deps.json
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\DailyRate\DailyRate\bin\Debug\net6.0\DailyRate.runtimeconfig.json
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\DailyRate\DailyRate\bin\Debug\net6.0\DailyRate.dll
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\DailyRate\DailyRate\bin\Debug\net6.0\DailyRate.pdb
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\DailyRate\DailyRate\obj\Debug\net6.0\DailyRate.csproj.AssemblyReference.cache
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\DailyRate\DailyRate\obj\Debug\net6.0\DailyRate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\DailyRate\DailyRate\obj\Debug\net6.0\DailyRate.AssemblyInfoInputs.cache
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\DailyRate\DailyRate\obj\Debug\net6.0\DailyRate.AssemblyInfo.cs
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\DailyRate\DailyRate\obj\Debug\net6.0\DailyRate.csproj.CoreCompileInputs.cache
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\DailyRate\DailyRate\obj\Debug\net6.0\DailyRate.dll
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\DailyRate\DailyRate\obj\Debug\net6.0\refint\DailyRate.dll
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\DailyRate\DailyRate\obj\Debug\net6.0\DailyRate.pdb
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\DailyRate\DailyRate\obj\Debug\net6.0\DailyRate.genruntimeconfig.cache
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 3\DailyRate\DailyRate\obj\Debug\net6.0\ref\DailyRate.dll
