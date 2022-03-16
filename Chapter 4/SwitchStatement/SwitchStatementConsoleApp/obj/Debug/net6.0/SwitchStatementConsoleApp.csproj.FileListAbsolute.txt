@@ -1,0 +1,15 @@
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\SwitchStatement\SwitchStatementConsoleApp\bin\Debug\net6.0\SwitchStatementConsoleApp.exe
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\SwitchStatement\SwitchStatementConsoleApp\bin\Debug\net6.0\SwitchStatementConsoleApp.deps.json
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\SwitchStatement\SwitchStatementConsoleApp\bin\Debug\net6.0\SwitchStatementConsoleApp.runtimeconfig.json
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\SwitchStatement\SwitchStatementConsoleApp\bin\Debug\net6.0\SwitchStatementConsoleApp.dll
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\SwitchStatement\SwitchStatementConsoleApp\bin\Debug\net6.0\SwitchStatementConsoleApp.pdb
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\SwitchStatement\SwitchStatementConsoleApp\obj\Debug\net6.0\SwitchStatementConsoleApp.csproj.AssemblyReference.cache
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\SwitchStatement\SwitchStatementConsoleApp\obj\Debug\net6.0\SwitchStatementConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\SwitchStatement\SwitchStatementConsoleApp\obj\Debug\net6.0\SwitchStatementConsoleApp.AssemblyInfoInputs.cache
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\SwitchStatement\SwitchStatementConsoleApp\obj\Debug\net6.0\SwitchStatementConsoleApp.AssemblyInfo.cs
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\SwitchStatement\SwitchStatementConsoleApp\obj\Debug\net6.0\SwitchStatementConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\SwitchStatement\SwitchStatementConsoleApp\obj\Debug\net6.0\SwitchStatementConsoleApp.dll
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\SwitchStatement\SwitchStatementConsoleApp\obj\Debug\net6.0\refint\SwitchStatementConsoleApp.dll
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\SwitchStatement\SwitchStatementConsoleApp\obj\Debug\net6.0\SwitchStatementConsoleApp.pdb
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\SwitchStatement\SwitchStatementConsoleApp\obj\Debug\net6.0\SwitchStatementConsoleApp.genruntimeconfig.cache
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\SwitchStatement\SwitchStatementConsoleApp\obj\Debug\net6.0\ref\SwitchStatementConsoleApp.dll

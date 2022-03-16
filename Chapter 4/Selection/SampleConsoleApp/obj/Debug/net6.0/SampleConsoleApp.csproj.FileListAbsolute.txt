@@ -1,0 +1,15 @@
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\Selection\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.csproj.AssemblyReference.cache
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\Selection\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\Selection\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.AssemblyInfoInputs.cache
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\Selection\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.AssemblyInfo.cs
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\Selection\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\Selection\SampleConsoleApp\bin\Debug\net6.0\SampleConsoleApp.exe
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\Selection\SampleConsoleApp\bin\Debug\net6.0\SampleConsoleApp.deps.json
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\Selection\SampleConsoleApp\bin\Debug\net6.0\SampleConsoleApp.runtimeconfig.json
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\Selection\SampleConsoleApp\bin\Debug\net6.0\SampleConsoleApp.dll
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\Selection\SampleConsoleApp\bin\Debug\net6.0\SampleConsoleApp.pdb
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\Selection\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.dll
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\Selection\SampleConsoleApp\obj\Debug\net6.0\refint\SampleConsoleApp.dll
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\Selection\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.pdb
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\Selection\SampleConsoleApp\obj\Debug\net6.0\SampleConsoleApp.genruntimeconfig.cache
+C:\Users\OS\Desktop\CSharp_Source_Code\Chapter 4\Selection\SampleConsoleApp\obj\Debug\net6.0\ref\SampleConsoleApp.dll
