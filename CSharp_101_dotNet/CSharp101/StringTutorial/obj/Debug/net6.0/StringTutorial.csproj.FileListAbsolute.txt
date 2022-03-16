@@ -1,0 +1,15 @@
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\StringTutorial\bin\Debug\net6.0\StringTutorial.exe
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\StringTutorial\bin\Debug\net6.0\StringTutorial.deps.json
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\StringTutorial\bin\Debug\net6.0\StringTutorial.runtimeconfig.json
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\StringTutorial\bin\Debug\net6.0\StringTutorial.dll
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\StringTutorial\bin\Debug\net6.0\StringTutorial.pdb
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\StringTutorial\obj\Debug\net6.0\StringTutorial.csproj.AssemblyReference.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\StringTutorial\obj\Debug\net6.0\StringTutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\StringTutorial\obj\Debug\net6.0\StringTutorial.AssemblyInfoInputs.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\StringTutorial\obj\Debug\net6.0\StringTutorial.AssemblyInfo.cs
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\StringTutorial\obj\Debug\net6.0\StringTutorial.csproj.CoreCompileInputs.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\StringTutorial\obj\Debug\net6.0\StringTutorial.dll
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\StringTutorial\obj\Debug\net6.0\refint\StringTutorial.dll
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\StringTutorial\obj\Debug\net6.0\StringTutorial.pdb
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\StringTutorial\obj\Debug\net6.0\StringTutorial.genruntimeconfig.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\StringTutorial\obj\Debug\net6.0\ref\StringTutorial.dll

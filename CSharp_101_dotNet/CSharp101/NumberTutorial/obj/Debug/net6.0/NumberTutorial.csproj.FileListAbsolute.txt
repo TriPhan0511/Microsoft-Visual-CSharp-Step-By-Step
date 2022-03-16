@@ -1,0 +1,15 @@
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\NumberTutorial\bin\Debug\net6.0\NumberTutorial.exe
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\NumberTutorial\bin\Debug\net6.0\NumberTutorial.deps.json
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\NumberTutorial\bin\Debug\net6.0\NumberTutorial.runtimeconfig.json
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\NumberTutorial\bin\Debug\net6.0\NumberTutorial.dll
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\NumberTutorial\bin\Debug\net6.0\NumberTutorial.pdb
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\NumberTutorial\obj\Debug\net6.0\NumberTutorial.csproj.AssemblyReference.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\NumberTutorial\obj\Debug\net6.0\NumberTutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\NumberTutorial\obj\Debug\net6.0\NumberTutorial.AssemblyInfoInputs.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\NumberTutorial\obj\Debug\net6.0\NumberTutorial.AssemblyInfo.cs
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\NumberTutorial\obj\Debug\net6.0\NumberTutorial.csproj.CoreCompileInputs.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\NumberTutorial\obj\Debug\net6.0\NumberTutorial.dll
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\NumberTutorial\obj\Debug\net6.0\refint\NumberTutorial.dll
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\NumberTutorial\obj\Debug\net6.0\NumberTutorial.pdb
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\NumberTutorial\obj\Debug\net6.0\NumberTutorial.genruntimeconfig.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\NumberTutorial\obj\Debug\net6.0\ref\NumberTutorial.dll
