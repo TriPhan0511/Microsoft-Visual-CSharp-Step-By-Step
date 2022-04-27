@@ -1,0 +1,15 @@
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\BranchesTurorial\bin\Debug\net6.0\BranchesTurorial.exe
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\BranchesTurorial\bin\Debug\net6.0\BranchesTurorial.deps.json
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\BranchesTurorial\bin\Debug\net6.0\BranchesTurorial.runtimeconfig.json
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\BranchesTurorial\bin\Debug\net6.0\BranchesTurorial.dll
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\BranchesTurorial\bin\Debug\net6.0\BranchesTurorial.pdb
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\BranchesTurorial\obj\Debug\net6.0\BranchesTurorial.csproj.AssemblyReference.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\BranchesTurorial\obj\Debug\net6.0\BranchesTurorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\BranchesTurorial\obj\Debug\net6.0\BranchesTurorial.AssemblyInfoInputs.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\BranchesTurorial\obj\Debug\net6.0\BranchesTurorial.AssemblyInfo.cs
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\BranchesTurorial\obj\Debug\net6.0\BranchesTurorial.csproj.CoreCompileInputs.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\BranchesTurorial\obj\Debug\net6.0\BranchesTurorial.dll
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\BranchesTurorial\obj\Debug\net6.0\refint\BranchesTurorial.dll
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\BranchesTurorial\obj\Debug\net6.0\BranchesTurorial.pdb
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\BranchesTurorial\obj\Debug\net6.0\BranchesTurorial.genruntimeconfig.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\BranchesTurorial\obj\Debug\net6.0\ref\BranchesTurorial.dll

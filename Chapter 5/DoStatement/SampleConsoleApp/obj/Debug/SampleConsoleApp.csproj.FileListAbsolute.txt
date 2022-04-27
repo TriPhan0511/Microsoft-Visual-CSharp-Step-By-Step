@@ -1,0 +1,8 @@
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter 5\DoStatement\SampleConsoleApp\bin\Debug\SampleConsoleApp.exe.config
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter 5\DoStatement\SampleConsoleApp\bin\Debug\SampleConsoleApp.exe
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter 5\DoStatement\SampleConsoleApp\bin\Debug\SampleConsoleApp.pdb
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter 5\DoStatement\SampleConsoleApp\obj\Debug\SampleConsoleApp.csproj.AssemblyReference.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter 5\DoStatement\SampleConsoleApp\obj\Debug\SampleConsoleApp.csproj.SuggestedBindingRedirects.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter 5\DoStatement\SampleConsoleApp\obj\Debug\SampleConsoleApp.csproj.CoreCompileInputs.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter 5\DoStatement\SampleConsoleApp\obj\Debug\SampleConsoleApp.exe
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter 5\DoStatement\SampleConsoleApp\obj\Debug\SampleConsoleApp.pdb

@@ -1,0 +1,8 @@
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\LoopsTutorial\bin\Debug\LoopsTutorial.exe.config
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\LoopsTutorial\bin\Debug\LoopsTutorial.exe
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\LoopsTutorial\bin\Debug\LoopsTutorial.pdb
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\LoopsTutorial\obj\Debug\LoopsTutorial.csproj.AssemblyReference.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\LoopsTutorial\obj\Debug\LoopsTutorial.csproj.SuggestedBindingRedirects.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\LoopsTutorial\obj\Debug\LoopsTutorial.csproj.CoreCompileInputs.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\LoopsTutorial\obj\Debug\LoopsTutorial.exe
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\CSharp101\LoopsTutorial\obj\Debug\LoopsTutorial.pdb

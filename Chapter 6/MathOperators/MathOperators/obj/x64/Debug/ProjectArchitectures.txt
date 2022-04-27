@@ -1,0 +1,1 @@
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\Chapter 6\MathOperators\MathOperators\MathOperators.csproj;x64

@@ -3,9 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringTutorial", "StringTutorial\StringTutorial.csproj", "{9645B84F-02D7-44C9-86C9-BFAA4EE0B8A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringTutorial", "StringTutorial\StringTutorial.csproj", "{9645B84F-02D7-44C9-86C9-BFAA4EE0B8A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberTutorial", "NumberTutorial\NumberTutorial.csproj", "{59F48AC4-486C-4A66-9CF6-661CBD10815B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberTutorial", "NumberTutorial\NumberTutorial.csproj", "{59F48AC4-486C-4A66-9CF6-661CBD10815B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BranchesTurorial", "BranchesTurorial\BranchesTurorial.csproj", "{48E4FEB5-A1E2-45CF-B0E4-ECFBDB1F4967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsTutorial", "LoopsTutorial\LoopsTutorial.csproj", "{0C8ACE89-D15C-4706-AA27-DF1B6FE9FFFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List_Tutorial", "List_Tutorial\List_Tutorial.csproj", "{3FD0A66B-3E9D-482A-8801-CF1EB67C9F4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List_Tutorial_2", "List_Tutorial_2\List_Tutorial_2.csproj", "{49929356-BFF3-4729-930C-2C0D5860A060}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +29,22 @@ Global
 		{59F48AC4-486C-4A66-9CF6-661CBD10815B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59F48AC4-486C-4A66-9CF6-661CBD10815B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59F48AC4-486C-4A66-9CF6-661CBD10815B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48E4FEB5-A1E2-45CF-B0E4-ECFBDB1F4967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E4FEB5-A1E2-45CF-B0E4-ECFBDB1F4967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E4FEB5-A1E2-45CF-B0E4-ECFBDB1F4967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E4FEB5-A1E2-45CF-B0E4-ECFBDB1F4967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C8ACE89-D15C-4706-AA27-DF1B6FE9FFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8ACE89-D15C-4706-AA27-DF1B6FE9FFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8ACE89-D15C-4706-AA27-DF1B6FE9FFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8ACE89-D15C-4706-AA27-DF1B6FE9FFFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FD0A66B-3E9D-482A-8801-CF1EB67C9F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD0A66B-3E9D-482A-8801-CF1EB67C9F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD0A66B-3E9D-482A-8801-CF1EB67C9F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD0A66B-3E9D-482A-8801-CF1EB67C9F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49929356-BFF3-4729-930C-2C0D5860A060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49929356-BFF3-4729-930C-2C0D5860A060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49929356-BFF3-4729-930C-2C0D5860A060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49929356-BFF3-4729-930C-2C0D5860A060}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

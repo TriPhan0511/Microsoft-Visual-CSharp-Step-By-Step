@@ -66,6 +66,8 @@ namespace StringTutorial
             Console.WriteLine(songLyrics.StartsWith("goodbye")); // False
             Console.WriteLine(songLyrics.EndsWith("hello")); // True
             Console.WriteLine(songLyrics.EndsWith("goodbye")); // False
+
+            Console.WriteLine("Hello");
         }
     }
 }
