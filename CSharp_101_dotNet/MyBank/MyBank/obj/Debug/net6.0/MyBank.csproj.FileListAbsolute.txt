@@ -1,0 +1,15 @@
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\MyBank\MyBank\bin\Debug\net6.0\MyBank.exe
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\MyBank\MyBank\bin\Debug\net6.0\MyBank.deps.json
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\MyBank\MyBank\bin\Debug\net6.0\MyBank.runtimeconfig.json
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\MyBank\MyBank\bin\Debug\net6.0\MyBank.dll
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\MyBank\MyBank\bin\Debug\net6.0\MyBank.pdb
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\MyBank\MyBank\obj\Debug\net6.0\MyBank.csproj.AssemblyReference.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\MyBank\MyBank\obj\Debug\net6.0\MyBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\MyBank\MyBank\obj\Debug\net6.0\MyBank.AssemblyInfoInputs.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\MyBank\MyBank\obj\Debug\net6.0\MyBank.AssemblyInfo.cs
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\MyBank\MyBank\obj\Debug\net6.0\MyBank.csproj.CoreCompileInputs.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\MyBank\MyBank\obj\Debug\net6.0\MyBank.dll
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\MyBank\MyBank\obj\Debug\net6.0\refint\MyBank.dll
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\MyBank\MyBank\obj\Debug\net6.0\MyBank.pdb
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\MyBank\MyBank\obj\Debug\net6.0\MyBank.genruntimeconfig.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\MyBank\MyBank\obj\Debug\net6.0\ref\MyBank.dll
