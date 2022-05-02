@@ -11,16 +11,27 @@ namespace List_Tutorial_2
         static void Main(string[] args)
         {
             //(new Program()).Sample1();
-            (new Program()).Fibonacci_Sample();
+            //(new Program()).Fibonacci_Sample();
+
+            // Debugging Sample
+            var fibonacciNumbers = new List<int>() { 1, 1 };
+            while (fibonacciNumbers.Count < 20)
+            {
+                var previous = fibonacciNumbers[fibonacciNumbers.Count - 1];
+                var previous2 = fibonacciNumbers[fibonacciNumbers.Count - 2];
+
+                fibonacciNumbers.Add(previous + previous2);
+            }
+
+            // Print first twenty Fibonacci numbers
+            foreach (var item in fibonacciNumbers)
+            {
+                Console.WriteLine(item);
+            }
         }
 
         void Fibonacci_Sample()
         {
-            //var fibonacciNumbers = new List<int>() { 1, 1 };
-            //var previous = fibonacciNumbers[fibonacciNumbers.Count - 1];
-            //var previous2 = fibonacciNumbers[fibonacciNumbers.Count - 2];
-            //fibonacciNumbers.Add(previous + previous2);
-
             var fibonacciNumbers = GetFibonacciNumbers(20);
             PrintFibonacciNumbers(fibonacciNumbers);
         }

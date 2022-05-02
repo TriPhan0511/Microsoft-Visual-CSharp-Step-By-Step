@@ -1,0 +1,8 @@
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\MySuperBank\MySuperBank_2\bin\Debug\MySuperBank_2.exe.config
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\MySuperBank\MySuperBank_2\bin\Debug\MySuperBank_2.exe
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\MySuperBank\MySuperBank_2\bin\Debug\MySuperBank_2.pdb
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\MySuperBank\MySuperBank_2\obj\Debug\MySuperBank_2.csproj.AssemblyReference.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\MySuperBank\MySuperBank_2\obj\Debug\MySuperBank_2.csproj.SuggestedBindingRedirects.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\MySuperBank\MySuperBank_2\obj\Debug\MySuperBank_2.csproj.CoreCompileInputs.cache
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\MySuperBank\MySuperBank_2\obj\Debug\MySuperBank_2.exe
+D:\Studying\DotNet\Microsoft-Visual-CSharp-Step-By-Step\CSharp_101_dotNet\MySuperBank\MySuperBank_2\obj\Debug\MySuperBank_2.pdb
