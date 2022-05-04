@@ -24,4 +24,4 @@
 //lineOfCredit.MakeWithdrawal(5000m, DateTime.Now, "Emergency funds for repairs.");
 //lineOfCredit.MakeDeposit(150m, DateTime.Now, "partial restoration on repairs");
 //lineOfCredit.PerformMonthEndTransaction();
-Console.WriteLine(lineOfCredit.GetAccountHistory());
+//Console.WriteLine(lineOfCredit.GetAccountHistory());
